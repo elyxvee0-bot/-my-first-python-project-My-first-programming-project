@@ -1,2 +1,1 @@
-# -my-first-python-project-My-first-programming-project
-My first programming project
+# -my-first-python-project
